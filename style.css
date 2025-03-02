@@ -77,7 +77,7 @@ background-color: blue;
 @media screen and (max-width: 900px) {
   .grid-wrapper{
    height: 75vh;
-   width: 73%;
+   width: 85%;
    grid-template-areas:
 "one one two  three"
 "four six two three"
